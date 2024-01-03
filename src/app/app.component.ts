@@ -14,5 +14,5 @@ import { QuizzComponent } from './components/quizz/quizz.component';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'projeto-buzzfeed';
+  title = 'Você seria um heroi ou vilão ?';
 }
